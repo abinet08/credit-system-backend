@@ -1,5 +1,5 @@
 // Configuration – replace with your deployed backend URL
-const API_URL = 'http://localhost:5000/api';   // Change to Render URL later
+const API_URL = 'https://credit-system-backend-production-b885.up.railway.app/api';   // Change to Render URL later
 
 // Helper functions
 function getToken() { return localStorage.getItem('token'); }
